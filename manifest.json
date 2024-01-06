@@ -1,0 +1,10 @@
+{
+  "name": "mashbooks",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/Jay114421/LethalCompany_BilibiliTrophy",
+  "description": "Chinese high school mathematics textbooks.",
+  "dependencies": [
+    "HolographicWings-LethalExpansion-1.3.5",
+    "BepInEx-BepInExPack-5.4.2100"
+  ]
+}
